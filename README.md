@@ -61,11 +61,11 @@ Frontend Developer with **5+ years of experience** building scalable, high-perfo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AngelPico&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Angel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=angelpico&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Angel's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelPico&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelpico&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
