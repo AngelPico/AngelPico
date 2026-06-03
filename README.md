@@ -56,20 +56,6 @@ Frontend Developer with **5+ years of experience** building scalable, high-perfo
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelpico&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Angel's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelpico&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <i>Open to remote opportunities worldwide — let's build something great together.</i>
 </p>
